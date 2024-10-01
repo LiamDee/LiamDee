@@ -17,4 +17,5 @@ Here are some ideas to get you started:
 doing a group project rn \
 github wants me to have this for their student thing \
 if you found this you probably know me in some way already \
-id put a haikou here but i dont know how to write one
+id put a haikou here but i dont know how to write one \
+ill make this more professional one day
