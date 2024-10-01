@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-doing a group project rn
-github wants me to have this for their student thing
+doing a group project rn \
+github wants me to have this for their student thing \
+if you found this you probably know me in some way already \
 id put a haikou here but i dont know how to write one
-maybe help with that?
