@@ -1,4 +1,4 @@
-## Yo
+## Hi
 
 <!--
 **LiamDee/LiamDee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-doing a group project rn \
-github wants me to have this for their student thing \
-if you found this you probably know me in some way already \
-id put a haikou here but i dont know how to write one \
-ill make this more professional one day
+currently working on a group project for one of my university modules, it's going well so far i guess \
+\
+also github wanted me to have this on my profile as a requirement for their student dev pack \
+\
+if you found this you probably know me in some way already, if not, hello! \
+\
+id put a haikou here but i dont know how to write one so here's my favourite linux distro instead: kali linux \
+\
+ill make this slighty more professional one day
