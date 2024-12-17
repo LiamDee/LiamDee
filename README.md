@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-currently working on a group project for one of my university modules, it's going well so far i guess \
+i was working on a group project for one of my university modules, it went okay i guess \
 \
 also github wanted me to have this on my profile as a requirement for their student dev pack \
 \
