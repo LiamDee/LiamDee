@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-i was working on a group project for one of my university modules, it went surprisingly well all things considered \
+i was working on my honours project for my degree, (i think) it went surprisingly well all things considered \
 \
-now im working on my honours project, it's going okay i guess\
+now im kinda kicking about, it's relaxing i guess\
 \
 also github wanted me to have this on my profile as a requirement for their student dev pack \
 \
 if you found this, you probably know me in some way already, if not, hello! \
 \
-id put a haikou here but i dont know how to write one so here's my favourite linux distro instead: linux mint \
+id put a haikou here but i dont know how to write one so here's one of my favourite sports teams instead: new york knicks \
 \
 ill make this slighty more professional one day
